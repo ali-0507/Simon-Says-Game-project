@@ -1,2 +1,2 @@
-# Simon-Says-Game-project.
+# Simon-Says-Game.
 This is my new project.
